@@ -2,7 +2,7 @@
 
 Code and data analysis from my undergraduate degree in the Natural Sciences Tripos at the University of Cambridge, specialising in **Materials Science**.
 
-The Tripos is structured in stages: a broad-based first year (Part IA) across several sciences, a second year (Part IB) where students narrow to three subjects, and a final year (Part II) of full specialisation. This repository consolidates the coding-heavy work from the second and third years:
+The Tripos is structured in stages: a broad-based first year (Part IA) across four different sciences (Maths, Physics, Chemistry and Materials Science), a second year (Part IB) where I focussed on three subjects (Physics, Materials Science and Quantitative Environmental Science), and a final year (Part II) of full specialisation in Materials Science. This repository consolidates the coding-heavy work from the second and third years:
 
 - **Part II — Materials Science** (final year): the bulk of the repository, spanning practicals, an alloy design project, and independent simulation work.
 - **Part IB — Quantitative Environmental Science (QES)**: a multidisciplinary second-year course combining physics, maths, biology and chemistry to study climate and environmental systems — building numerical climate models, analysing environmental datasets, and writing a policy paper aimed at a non-technical audience.
