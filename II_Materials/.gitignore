@@ -9,6 +9,7 @@ AI_Configs/
 Manim_Attempt/
 Course_Revision/
 Course_Notes/
+II Materials Practicals/
 **/__pycache__
 
 # Ignore specific files
@@ -20,4 +21,6 @@ Alloy_Design/ADP Group 7 (1).pptx
 Alloy_Design/SoC - Alloy Design.pdf
 Alloy_Design/ADP_Poster_Group7.pdf
 RPi_Project/Code_submission_pointer.pdf
+Industrial Visits Assessment Task.pdf
+IP Law Assessment.pdf
 **/*.pyc
