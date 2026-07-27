@@ -1,0 +1,1 @@
+A repository containing the code for my 4-box thermohaline circulation model as part of the IB QES course in which multivariable flows are simulated through numerical solutions to coupled differential equations.
